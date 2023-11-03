@@ -1,0 +1,141 @@
+.colored-section{
+  background-color: #C2DEDC;
+  color: #E5D283;
+}
+
+#navbarTogglerDemo01{
+  padding-left: 30%;
+}
+.social{
+  padding-left: 42%;
+  size: 30px
+}
+.social-items{
+  padding: 2px;
+}
+.navbar-brand{
+  padding-left: 5%
+}
+.title{
+  text-align: center;
+  padding-top: 5%;
+  font-family: 'Edu TAS Beginner', cursive;
+  font-family: 'Roboto', sans-serif;
+}
+.Contact{
+  text-align: center;
+  padding-top: 5%;
+  font-family: 'Edu TAS Beginner', cursive;
+  font-family: 'Roboto', sans-serif;
+}
+#hero{
+  width: 100%;
+  height: 100vh;
+  background: url(https://www.shutterstock.com/image-photo/coding-application-by-programmer-developer-260nw-268518845.jpg) top right;
+  background-size: cover;
+}
+.name{
+  padding-top: 20px
+}
+.Description{
+  padding: 1% 10% 1% 10%
+}
+#hero .btn {
+  background: #687EFF;
+  background-image: -webkit-linear-gradient(top, #687EFF, #B6FFFA);
+  background-image: -moz-linear-gradient(top, #687EFF, #B6FFFA);
+  background-image: -ms-linear-gradient(top, #687EFF, #B6FFFA);
+  background-image: -o-linear-gradient(top, #687EFF, #B6FFFA);
+  background-image: linear-gradient(to bottom, #687EFF, #B6FFFA);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #687EFF;
+  font-size: 20px;
+  padding: 10px 25px 10px 25px;
+  text-decoration: none;
+}
+
+#hero .btn:hover {
+  background: #98E4FF;
+  background-image: -webkit-linear-gradient(top, #98E4FF, #98E4FF);
+  background-image: -moz-linear-gradient(top, #98E4FF, #98E4FF);
+  background-image: -ms-linear-gradient(top, #98E4FF, #98E4FF);
+  background-image: -o-linear-gradient(top, #98E4FF, #98E4FF);
+  background-image: linear-gradient(to bottom, #98E4FF, #98E4FF);
+  text-decoration: none;
+}
+.About{
+  text-align: center;
+  padding-top: 5%;
+  font-family: 'Edu TAS Beginner', cursive;
+  font-family: 'Roboto', sans-serif;
+}
+.Profil_photo{
+  margin-right:65%;
+}
+#subtitle{
+  margin-top: -20%;
+}
+u{
+  text-decoration-color: #B6FFFA;
+}
+
+.about_full{
+  padding-right: 10%;
+  padding-left: 30%
+}
+.birth{
+  padding-left: 30%;
+  text-align: left;
+}
+#footer{
+  text-align: center;
+  background-color:#C2DEDC 
+}
+.table{
+  padding-right: 10%;
+}
+.Portfolio_Description{
+  padding: 0 3%;
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+/* hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #EAF6F6;
+  border-width: 5px;
+  width: 5%;
+  margin: 100px auto;
+} */
+/* B6FFFA
+98E4FF
+80B3FF
+687EFF
+F28500*/
